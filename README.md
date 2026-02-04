@@ -13,6 +13,7 @@ BOM:
 - 4x Blank DSA Keycaps
 - 4x M3x16 Bolt
 - 4x M3 Heatset
+- 1x 3D prints of case and cover
 
 Schematic            |  PCB         
 :-------------------------:|:-------------------------:
