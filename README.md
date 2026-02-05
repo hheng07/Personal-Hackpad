@@ -17,7 +17,8 @@ BOM:
 
 Schematic            |  PCB         
 :-------------------------:|:-------------------------:
-<img width="607" height="537" alt="image" src="https://github.com/user-attachments/assets/0f9b3647-b5f8-4d5a-bae3-04076c99176c" />    |<img width="593" height="646" alt="image" src="https://github.com/user-attachments/assets/173c3f99-58f5-4b94-97f5-2d0de2693717" /> 
+<img width="1103" height="836" alt="image" src="https://github.com/user-attachments/assets/fdb1413e-1ef3-4efe-94f4-af4a135a5e35" /> |<img width="571" height="621" alt="image" src="https://github.com/user-attachments/assets/a174908e-84a0-4a2e-bae3-3ce7b208b754" />
+
 
 |Bottom             | Top             | Combined            |
 |:-------------------------:|:-------------------------:|:-------------------------:|
