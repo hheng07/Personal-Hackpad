@@ -19,6 +19,19 @@ keyboard.keymap = [
     [KC.UP, KC.LEFT, KC.RIGHT, KC.DOWN]
 ]
 
+# --- Encoder (volume control) ---
+encoder = EncoderHandler()
+keyboard.modules.append(encoder)
+
+encoder.pins = (
+    (board.GP5, board.GP6),  # change pins if needed
+)
+
+encoder.map = [
+    ((KC.VOLD, KC.VOLU),)
+]
+
+
 rgb = RGB(
     pixel_pin=board.GP4,
     num_pixels=2,
