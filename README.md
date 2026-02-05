@@ -23,5 +23,6 @@ Schematic            |  PCB
 
 |Bottom             | Top             | Combined            |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-<img width="904" height="592" alt="image" src="https://github.com/user-attachments/assets/626edd5f-d790-4d08-a0a7-1cb288396869" />  |<img width="622" height="649" alt="image" src="https://github.com/user-attachments/assets/3b29aa68-1bbf-4fb2-95ad-7a76bc76e121" />  |<img width="946" height="663" alt="image" src="https://github.com/user-attachments/assets/177a01a4-2373-48bf-97b0-09fba438438f" />
+<img width="904" height="592" alt="image" src="https://github.com/user-attachments/assets/626edd5f-d790-4d08-a0a7-1cb288396869" />  |<img width="622" height="649" alt="image" src="https://github.com/user-attachments/assets/3b29aa68-1bbf-4fb2-95ad-7a76bc76e121" />  |<img width="826" height="751" alt="image" src="https://github.com/user-attachments/assets/a9b71b31-e8ae-45f5-a906-f0eae3e3b7bc" />
+
 
