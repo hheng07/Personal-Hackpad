@@ -1,5 +1,5 @@
 # Personal-Hackpad
-Four arrow keys to use either for gaming or to utilize as shortcut keys.
+Four arrow keys to use either for gaming or to utilize as shortcut keys. Also implemented an EC11 encoder for customizable actions like volume control.
 
 ### Challenges
 At first I was using FreeCad, but I was having trouble figthing the different restraints, so I had to switch over to Fusion360's free trial to ease up on my stress levels. 
@@ -13,6 +13,7 @@ BOM:
 - 4x Blank DSA Keycaps
 - 4x M3x16 Bolt
 - 4x M3 Heatset
+- 1x EC11 Rotary Encoder
 - 1x 3D prints of case and cover
 
 Schematic            |  PCB         
