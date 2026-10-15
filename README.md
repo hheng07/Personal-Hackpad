@@ -2,7 +2,7 @@
 Four arrow keys to use either for gaming or to utilize as shortcut keys. Also implemented an EC11 encoder for customizable actions like volume control.
 
 ### Challenges
-At first I was using FreeCad, but I was having trouble figthing the different restraints, so I had to switch over to Fusion360's free trial to ease up on my stress levels. 
+At first I was using FreeCad, but I was having trouble fighting the different restraints, so I had to switch over to Fusion360's free trial to ease up on my stress levels. 
 
 ### Specifications
 
